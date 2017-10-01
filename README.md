@@ -19,17 +19,17 @@ Le solveur Rush Hour possède 6 fichiers sources en langage python:
 
 Cette version permet de bénéficier de ces 4 méthodes de résolution:
 
- * Résolution par programmation linéaire en variables binaires, minimisant le nombre de mouvements.
- * Résolution par programmation linéaire en variables binaires, minimisant le nombre total de cases de l'ensemble des mouvements.
- * Résolution par l'algorithme de Dijkstra, minimisant le nombre de mouvements.
- * Résolution par l'algorithme de Dijkstra, minimisant le nombre total de cases de l'ensemble des mouvements.
+ 	* Résolution par programmation linéaire en variables binaires, minimisant le nombre de mouvements.
+ 	* Résolution par programmation linéaire en variables binaires, minimisant le nombre total de cases de l'ensemble des mouvements.
+ 	* Résolution par l'algorithme de Dijkstra, minimisant le nombre de mouvements.
+ 	* Résolution par l'algorithme de Dijkstra, minimisant le nombre total de cases de l'ensemble des mouvements.
 		
 ## How to use:
 Pour pouvoir tester les différentes méthodes il faut entrer ces lignes de commande dans un interpréteur de commande du langage python:
 
 cas Ipython:
 
-  * %run dataStructure.py
+  	* %run dataStructure.py
 	* %run windows.py
 	* %run grid.py
 	* %run programme2.py
